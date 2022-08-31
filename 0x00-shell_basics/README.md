@@ -1,1 +1,1 @@
-change the current directory to the home directory
+display the current directory in long format
