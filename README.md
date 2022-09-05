@@ -1,1 +1,1 @@
-shell basics project
+Write a script that displays a confused smiley "(Ôo)
